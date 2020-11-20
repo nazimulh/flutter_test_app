@@ -1,9 +1,7 @@
 
 import 'package:flutter/material.dart';
-
-import 'addacus.dart';
+import 'package:flutter_test_app/test.dart';
 
 void main() {
-  // runApp(MyApp());
-  runApp(MyAddacusApp());
+  runApp(MyApp());
 }
